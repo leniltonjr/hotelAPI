@@ -1,0 +1,8 @@
+{
+  "name": "leniltonjr/projeto",
+  "autoload": {
+    "psr-4": {
+    "projeto\\": "src/projeto"
+  }
+      }
+}
