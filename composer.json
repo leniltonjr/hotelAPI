@@ -1,5 +1,5 @@
 {
-  "name": "leniltonjr/projeto",
+  "name": "leniltonjr/xlr8ems",
   "autoload": {
     "psr-4": {
     "projeto\\": "src/projeto"
