@@ -5,7 +5,8 @@
     "projeto\\": "src/projeto"
 	}
   },
-  "minimum-stability": "dev",
-  "license": "MIT"
- 
+  "license": "MIT",
+  "require": {
+    "leniltonjr/xlr8ems": "dev-master"
+}
 }

@@ -10,5 +10,5 @@ git push -u origin main
 
 ** ATUALIZACOES
 git add .
-git commit -m "composer.json erro minimum-stability"
+git commit -m "composer.json erro minimum-stability remove (,)"
 git push origin main
